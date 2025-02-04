@@ -135,8 +135,6 @@ ORDER BY profit_margin DESC;
 
 ## 📢 Connect with Me
 
-- **LinkedIn:** [Your Profile]
-- **GitHub:** [Your Profile]
+- **LinkedIn:** [https://www.linkedin.com/in/scherman88/](https://www.linkedin.com/in/scherman88/)
 
 ---
-This polished version ensures clarity, consistency, and professionalism. Let me know if you'd like any final tweaks! 🚀
